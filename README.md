@@ -1,4 +1,5 @@
 <h1>🔥 NLW Setup by Rocketseat 🔥</h1>
+<img src="preview.jpg"><br>
 
 **Build your Habit Tracker!**
 
@@ -10,3 +11,4 @@
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
  </div>
+
